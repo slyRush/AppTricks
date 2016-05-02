@@ -1,0 +1,3 @@
+ucfirst_homepage:
+    path:     /ucfirst
+    defaults: { _controller: UcfirstBundle:Default:index }
