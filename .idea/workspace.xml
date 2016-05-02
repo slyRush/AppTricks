@@ -1,274 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97cd0561-f71f-47df-a3ef-aced32331b0c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bundles/framework/images/android-desktop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bundles/framework/images/blue_picto_less.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bundles/framework/images/blue_picto_more.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bundles/framework/images/dog.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bundles/framework/images/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bundles/framework/images/grey_magnifier.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bundles/framework/images/ios-desktop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bundles/framework/images/logo_symfony.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bundles/framework/images/user.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Command/AbstractCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Cache/ApcCache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Cache/ArrayCache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Asset/AssetCache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Controller/AssetCacheKeyFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Asset/AssetCollection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Asset/Iterator/AssetCollectionFilterIterator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Asset/AssetCollectionInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Asset/Iterator/AssetCollectionIterator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Factory/AssetFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Factory/AssetFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/DependencyInjection/Compiler/AssetFactoryPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Tests/Factory/AssetFactoryTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Asset/AssetInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/AssetManager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/CacheWarmer/AssetManagerCacheWarmer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Tests/CacheWarmer/AssetManagerCacheWarmerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/DependencyInjection/Compiler/AssetManagerPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Asset/AssetReference.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/AssetWriter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/AsseticBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Controller/AsseticController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Tests/Controller/AsseticControllerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/AsseticExtension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/DependencyInjection/AsseticExtension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Twig/AsseticExtension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Tests/DependencyInjection/AsseticExtensionTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/AsseticFilterFunction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/AsseticFilterInvoker.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/AsseticFilterNode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Templating/AsseticHelper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Factory/Loader/AsseticHelperFormulaLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Tests/Templating/AsseticHelperTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Routing/AsseticLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/AsseticNode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Twig/AsseticNode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Twig/AsseticNodeVisitor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Config/AsseticResource.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/AsseticTokenParser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Twig/AsseticTokenParser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/AutoprefixerFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Asset/BaseAsset.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/GoogleClosure/BaseCompilerFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/Yui/BaseCompressorFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/BaseCssFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/BaseNodeFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Factory/Loader/BasePhpFormulaLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/BaseProcessFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/Sass/BaseSassFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/CHANGELOG-1.0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/CHANGELOG-1.1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/CHANGELOG-1.2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Factory/Worker/CacheBustingWorker.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Cache/CacheInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Factory/Loader/CachedFormulaLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/CallablesFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/DependencyInjection/Compiler/CheckClosureFilterPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/DependencyInjection/Compiler/CheckCssEmbedFilterPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/DependencyInjection/Compiler/CheckYuiFilterPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/CleanCssFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Factory/Resource/CoalescingDirectoryResource.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Factory/Resource/CoalescingDirectoryResource.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Tests/Factory/Resource/CoalescingDirectoryResourceTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/CoffeeScriptFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/CompassFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/GoogleClosure/CompilerApiFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/GoogleClosure/CompilerJarFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Cache/ConfigCache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/UCFirst/UcfirstBundle/DependencyInjection/Configuration.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/DependencyInjection/Configuration.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Factory/Loader/ConfigurationLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Factory/Resource/ConfigurationResource.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/CssCacheBustingFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/Yui/CssCompressorFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/CssEmbedFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/CssImportFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/CssMinFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/CssRewriteFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Util/CssUtils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/DartFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/UCFirst/UcfirstBundle/Controller/DefaultController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/UCFirst/UcfirstBundle/Tests/Controller/DefaultControllerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/DefaultValueSupplier.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/DependencyExtractorInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Factory/Resource/DirectoryResource.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Factory/Resource/DirectoryResource.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/DependencyInjection/DirectoryResourceDefinition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Factory/Resource/DirectoryResourceIterator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Command/DumpCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Tests/Command/DumpCommandTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Templating/DynamicAsseticHelper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/EmberPrecompileFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Factory/Worker/EnsureFilterWorker.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Exception/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Cache/ExpiringCache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Asset/FileAsset.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Factory/Resource/FileResource.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Factory/Resource/FileResource.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Tests/Factory/Resource/FileResourceTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Cache/FilesystemCache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Util/FilesystemUtils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/FilterCollection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Exception/FilterException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/FilterInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/FilterManager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/FilterManager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/DependencyInjection/Compiler/FilterManagerPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Tests/FilterManagerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Factory/Loader/FormulaLoaderInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Factory/Loader/FunctionCallsFormulaLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Tests/FunctionalTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Asset/GlobAsset.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/GssFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/HandlebarsFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/HashableInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Asset/HttpAsset.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Exception/InvalidBundleException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Factory/Resource/IteratorResourceInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/JSMinFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/JSMinPlusFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/JSqueezeFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/JpegoptimFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/JpegtranFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/Yui/JsCompressorFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Factory/LazyAssetManager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/LessFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Util/LessUtils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/LessphpFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/MinifyCssCompressorFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/OptiPngFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/PackagerFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/PackerFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/PhpCssEmbedFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/PngoutFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/ReactJsxFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/EventListener/RequestListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Factory/Resource/ResourceInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/RooleFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/DependencyInjection/Compiler/RouterResourcePass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/Sass/SassFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/Sass/ScssFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/ScssphpFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Config/SelfCheckingAsseticResource.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/SeparatorFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/SprocketsFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/DependencyInjection/Compiler/SprocketsFilterPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Templating/StaticAsseticHelper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/DependencyInjection/Compiler/StaticAsseticHelperPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Asset/StringAsset.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/StylusFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/DependencyInjection/Compiler/TemplateResourcesPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/DependencyInjection/Compiler/TemplatingPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Tests/TestBundle/TestBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Tests/TestKernel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Util/TraversableString.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/TwigFormulaLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/TwigResource.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/TypeScriptFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/UPGRADE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/UCFirst/UcfirstBundle/UcfirstBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/UCFirst/UcfirstBundle/DependencyInjection/UcfirstExtension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/UglifyCssFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/UglifyJs2Filter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Filter/UglifyJsFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Factory/Worker/UseControllerWorker.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Extension/Twig/ValueContainer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/ValueSupplierInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Util/VarUtils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Command/WatchCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/Assetic/Factory/Worker/WorkerInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/schema/assetic-1.0.xsd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/assetic.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/autoprefixer.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Tests/Resources/Resources/views/base.html.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Tests/Resources/Resources/views/base.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bundles/framework/css/body.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Tests/TestBundle/Resources/css/bundle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/cleancss.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/closure.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/coffee.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/compass.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Tests/Resources/config/config.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/controller.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/csscachebusting.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/cssembed.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/cssimport.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/cssmin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/cssrewrite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/dart.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/emberprecompile.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bundles/framework/css/exception.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/src/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/gss.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/handlebars.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/UCFirst/UcfirstBundle/Resources/views/Default/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Tests/Resources/web/javascript1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Tests/Resources/web/javascript2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/jpegoptim.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/jpegtran.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/jsmin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/jsminplus.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/jsqueeze.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Tests/Resources/Resources/views/layout.html.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Tests/Resources/Resources/views/layout.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/less.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/lessphp.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/minifycsscompressor.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/optipng.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/kriswallsmith/assetic/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/packager.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/packer.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/phpcssembed.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/pngout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/reactjsx.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/roole.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/UCFirst/UcfirstBundle/Resources/config/routing.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Tests/Resources/config/routing.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/sass.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/scss.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/scssphp.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/UCFirst/UcfirstBundle/Resources/config/services.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/sprockets.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bundles/framework/css/structure.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bundles/framework/css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Tests/Resources/web/stylesheet1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Tests/Resources/web/stylesheet2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/stylus.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/templating_php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/templating_twig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/typescript.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/uglifycss.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/uglifyjs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/uglifyjs2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/yui_css.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/assetic-bundle/Resources/config/filters/yui_js.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/AppKernel.php" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/AppTricks.iml" afterPath="$PROJECT_DIR$/.idea/AppTricks.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config.yml" afterPath="$PROJECT_DIR$/app/config/config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing.yml" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
+    <list default="true" id="97cd0561-f71f-47df-a3ef-aced32331b0c" name="Default" comment="push bundle">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AppTricks.iws" />
@@ -300,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -329,7 +62,7 @@
       <file leaf-file-name="base.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
               <folding />
             </state>
@@ -339,13 +72,9 @@
       <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/UCFirst/UcfirstBundle/Resources/views/Default/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.22742476">
-              <caret line="108" column="107" selection-start-line="108" selection-start-column="107" selection-end-line="108" selection-end-column="107" />
-              <folding>
-                <element signature="e#12#26#0#Twig" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#1;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.33492824">
+              <caret line="118" column="73" selection-start-line="118" selection-start-column="73" selection-end-line="118" selection-end-column="73" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -485,6 +214,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -748,7 +478,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -816,23 +545,23 @@
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26066098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26332623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24889868" sideWeight="0.5063966" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24889868" sideWeight="0.50852877" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24889868" sideWeight="0.4936034" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24889868" sideWeight="0.4914712" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1433902" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -883,15 +612,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UCFirst/UcfirstBundle/Resources/views/Default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="67" column="31" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/bundles/framework/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UCFirst/UcfirstBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UCFirst/UcfirstBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/UCFirst/UcfirstBundle/Resources/views/Default/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#12#26#0#Twig" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#1;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -946,7 +735,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -985,7 +774,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
           <folding />
         </state>
@@ -993,13 +782,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UCFirst/UcfirstBundle/Resources/views/Default/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22742476">
-          <caret line="108" column="107" selection-start-line="108" selection-start-column="107" selection-end-line="108" selection-end-column="107" />
-          <folding>
-            <element signature="e#12#26#0#Twig" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#1;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.33492824">
+          <caret line="118" column="73" selection-start-line="118" selection-start-column="73" selection-end-line="118" selection-end-column="73" />
+          <folding />
         </state>
       </provider>
     </entry>
