@@ -12,8 +12,10 @@
 /var/sessions/*
 !var/sessions/.gitkeep
 !var/SymfonyRequirements.php
-.idea
-/.idea
+.idea/*
+/.idea/*
+/.gitignore
+/.gitattributes
 .gitignore
-/.git
-.htaccess
+/.idea/AppTricks.iml
+/.idea/workspace.xml

@@ -1,3 +1,8 @@
+tricks:
+    resource: "@TricksBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
 ucfirst:
     resource: "@UcfirstBundle/Resources/config/routing.yml"
     prefix:   /
