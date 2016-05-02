@@ -15,6 +15,7 @@ class ComposerStaticInitea1fcaf45017eaeb595d771d1e08963a
         '0e6d7bf4a5811bfa5cf40c5ccd6fae6a' => __DIR__ . '/..' . '/symfony/polyfill-mbstring/bootstrap.php',
         '6a47392539ca2329373e0d33e1dba053' => __DIR__ . '/..' . '/symfony/polyfill-intl-icu/bootstrap.php',
         '8ac9dba77d5c65db2811440ee8265f5d' => __DIR__ . '/..' . '/sonata-project/block-bundle/Resources/stubs/symfony2.php',
+        'ce89ac35a6c330c55f4710717db9ff78' => __DIR__ . '/..' . '/kriswallsmith/assetic/src/functions.php',
     );
 
     public static $prefixLengthsPsr4 = array (
@@ -32,6 +33,7 @@ class ComposerStaticInitea1fcaf45017eaeb595d771d1e08963a
             'Symfony\\Component\\' => 18,
             'Symfony\\Bundle\\SwiftmailerBundle\\' => 33,
             'Symfony\\Bundle\\MonologBundle\\' => 29,
+            'Symfony\\Bundle\\AsseticBundle\\' => 29,
             'Symfony\\Bundle\\' => 15,
             'Symfony\\Bridge\\PhpUnit\\' => 23,
             'Symfony\\Bridge\\' => 15,
@@ -111,6 +113,10 @@ class ComposerStaticInitea1fcaf45017eaeb595d771d1e08963a
         'Symfony\\Bundle\\MonologBundle\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/monolog-bundle',
+        ),
+        'Symfony\\Bundle\\AsseticBundle\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/assetic-bundle',
         ),
         'Symfony\\Bundle\\' => 
         array (
@@ -264,6 +270,13 @@ class ComposerStaticInitea1fcaf45017eaeb595d771d1e08963a
             'Doctrine\\Common\\Annotations\\' => 
             array (
                 0 => __DIR__ . '/..' . '/doctrine/annotations/lib',
+            ),
+        ),
+        'A' => 
+        array (
+            'Assetic' => 
+            array (
+                0 => __DIR__ . '/..' . '/kriswallsmith/assetic/src',
             ),
         ),
     );
