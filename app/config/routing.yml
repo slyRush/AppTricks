@@ -1,11 +1,20 @@
+dashboard_tricks:
+    resource: "@DashboardTricksBundle/Resources/config/routing.yml"
+    prefix:   /
+
+dashboard:
+    resource: "@DashboardBundle/Controller/"
+    type:     annotation
+    prefix:   /dash
+
 tricks:
     resource: "@TricksBundle/Controller/"
     type:     annotation
-    prefix:   /
+    prefix:   /tricks
 
 ucfirst:
     resource: "@UcfirstBundle/Resources/config/routing.yml"
-    prefix:   /
+    prefix:   /ucfirst
 
 app:
     resource: "@AppBundle/Controller/"

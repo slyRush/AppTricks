@@ -18,6 +18,8 @@ class AppKernel extends Kernel
             new AppBundle\AppBundle(),
             new TricksBundle\TricksBundle(),
             new UCFirst\UcfirstBundle\UcfirstBundle(),
+            new DashboardBundle\DashboardBundle(),
+            new DashboardTricksBundle\DashboardTricksBundle(),
         ];
 
         if (in_array($this->getEnvironment(), ['dev', 'test'], true)) {

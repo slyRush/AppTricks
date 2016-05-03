@@ -1,0 +1,3 @@
+dashboard_tricks_homepage:
+    path:     /
+    defaults: { _controller: DashboardTricksBundle:Default:index }

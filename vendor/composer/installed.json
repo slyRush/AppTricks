@@ -2464,7 +2464,7 @@
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/sonata-project/SonataAdminBundle/zipball/88e9451ccbd267b51efddba92712268c0489ea0d",
+            "url": "https://api.github.com/repos/sonata-project/SonataAdminBundle/zipball/add0c9d151812eeba824f6144e002ecea9618ebb",
             "reference": "88e9451ccbd267b51efddba92712268c0489ea0d",
             "shasum": ""
         },
@@ -2891,6 +2891,90 @@
             "assets",
             "compression",
             "minification"
+        ]
+    },
+    {
+        "name": "os/php-excel",
+        "version": "2.1",
+        "version_normalized": "2.1.0.0",
+        "target-dir": "PHPExcel",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ouardisoft/PHPExcel.git",
+            "reference": "1dcb280a82b94943a00d478eac099542aa0be2bd"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ouardisoft/PHPExcel/zipball/1dcb280a82b94943a00d478eac099542aa0be2bd",
+            "reference": "1dcb280a82b94943a00d478eac099542aa0be2bd",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2.6"
+        },
+        "time": "2012-05-02 20:42:37",
+        "type": "library",
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "LOUARDI Abdeltif",
+                "email": "louardi.abdeltif@yahoo.fr",
+                "homepage": "http://phphub.net"
+            }
+        ],
+        "description": "PHP Excel Library",
+        "homepage": "http://github.com/ouardisoft/PHPExcel",
+        "keywords": [
+            "excel"
+        ]
+    },
+    {
+        "name": "os/excel-bundle",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "target-dir": "OS/ExcelBundle",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/abdeltiflouardi/OSExcelBundle.git",
+            "reference": "ab03362ab60bc10a49fccb52b075e4f08a77f9af"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/abdeltiflouardi/OSExcelBundle/zipball/ab03362ab60bc10a49fccb52b075e4f08a77f9af",
+            "reference": "ab03362ab60bc10a49fccb52b075e4f08a77f9af",
+            "shasum": ""
+        },
+        "require": {
+            "os/php-excel": "2.1",
+            "php": ">=5.2.6"
+        },
+        "time": "2015-07-29 18:56:18",
+        "type": "symfony-bundle",
+        "installation-source": "source",
+        "autoload": {
+            "psr-0": {
+                "OS\\ExcelBundle": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "LOUARDI Abdeltif",
+                "email": "louardi.abdeltif@yahoo.fr",
+                "homepage": "http://phphub.net"
+            }
+        ],
+        "description": "OS Excel Bundle for Symfony2",
+        "homepage": "http://github.com/abdeltiflouardi/OSExcelBundle",
+        "keywords": [
+            "excel"
         ]
     }
 ]

@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "0872d03b44cf85087a663fdcd9d43945",
-    "content-hash": "62bc0fe5bbd81ae207932d9779ab654e",
+    "hash": "5968e289e0730b251193aa6545d94dc2",
+    "content-hash": "091960fa70344142179ddddea31511b0",
     "packages": [
         {
             "name": "cocur/slugify",
@@ -1285,6 +1285,86 @@
             "time": "2016-04-12 18:29:35"
         },
         {
+            "name": "os/excel-bundle",
+            "version": "dev-master",
+            "target-dir": "OS/ExcelBundle",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/abdeltiflouardi/OSExcelBundle.git",
+                "reference": "ab03362ab60bc10a49fccb52b075e4f08a77f9af"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/abdeltiflouardi/OSExcelBundle/zipball/ab03362ab60bc10a49fccb52b075e4f08a77f9af",
+                "reference": "ab03362ab60bc10a49fccb52b075e4f08a77f9af",
+                "shasum": ""
+            },
+            "require": {
+                "os/php-excel": "2.1",
+                "php": ">=5.2.6"
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-0": {
+                    "OS\\ExcelBundle": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "LOUARDI Abdeltif",
+                    "email": "louardi.abdeltif@yahoo.fr",
+                    "homepage": "http://phphub.net"
+                }
+            ],
+            "description": "OS Excel Bundle for Symfony2",
+            "homepage": "http://github.com/abdeltiflouardi/OSExcelBundle",
+            "keywords": [
+                "excel"
+            ],
+            "time": "2015-07-29 18:56:18"
+        },
+        {
+            "name": "os/php-excel",
+            "version": "2.1",
+            "target-dir": "PHPExcel",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ouardisoft/PHPExcel.git",
+                "reference": "1dcb280a82b94943a00d478eac099542aa0be2bd"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ouardisoft/PHPExcel/zipball/1dcb280a82b94943a00d478eac099542aa0be2bd",
+                "reference": "1dcb280a82b94943a00d478eac099542aa0be2bd",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.2.6"
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "LOUARDI Abdeltif",
+                    "email": "louardi.abdeltif@yahoo.fr",
+                    "homepage": "http://phphub.net"
+                }
+            ],
+            "description": "PHP Excel Library",
+            "homepage": "http://github.com/ouardisoft/PHPExcel",
+            "keywords": [
+                "excel"
+            ],
+            "time": "2012-05-02 20:42:37"
+        },
+        {
             "name": "paragonie/random_compat",
             "version": "v1.4.1",
             "source": {
@@ -1538,7 +1618,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sonata-project/SonataAdminBundle/zipball/88e9451ccbd267b51efddba92712268c0489ea0d",
+                "url": "https://api.github.com/repos/sonata-project/SonataAdminBundle/zipball/add0c9d151812eeba824f6144e002ecea9618ebb",
                 "reference": "88e9451ccbd267b51efddba92712268c0489ea0d",
                 "shasum": ""
             },
@@ -2820,7 +2900,8 @@
     "minimum-stability": "stable",
     "stability-flags": {
         "friendsofsymfony/user-bundle": 20,
-        "sonata-project/admin-bundle": 20
+        "sonata-project/admin-bundle": 20,
+        "os/excel-bundle": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,

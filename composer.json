@@ -23,7 +23,8 @@
         "incenteev/composer-parameter-handler": "^2.0",
         "friendsofsymfony/user-bundle": "2.0.x-dev",
         "sonata-project/admin-bundle": "3.x-dev",
-        "symfony/assetic-bundle": "v2.8.0"
+        "symfony/assetic-bundle": "v2.8.0",
+        "os/excel-bundle": "dev-master"
     },
     "require-dev": {
         "sensio/generator-bundle": "^3.0",
